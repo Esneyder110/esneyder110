@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esneyder</h1>
 <h3 align="center">A passionate backend developer from Venezuela</h3>
 
-- 🔭 I’m currently working on **Digital Node**
-
 - 🌱 I’m currently learning **Nextjs**
 
 - 🤝 I’m looking for **new opportunities**
